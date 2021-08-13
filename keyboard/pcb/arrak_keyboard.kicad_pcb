@@ -2,14 +2,20 @@
 
   (general
     (thickness 1.6)
-    (drawings 0)
+    (drawings 19)
     (tracks 0)
     (zones 0)
     (modules 40)
     (nets 41)
   )
 
-  (page A4)
+  (page A3)
+  (title_block
+    (title "arrak keyboard")
+    (date 2021-08-12)
+    (comment 4 "by: durken")
+  )
+
   (layers
     (0 F.Cu signal)
     (31 B.Cu signal)
@@ -181,7 +187,7 @@
   )
 
   (module Keebio-Parts:Kailh-PG1350-1u-reversible-NoLED (layer F.Cu) (tedit 6112C87C) (tstamp 6112E058)
-    (at 65.199048 97.47238 345)
+    (at 85.963808 158.05 345)
     (path /61137117)
     (fp_text reference SW10 (at 0 -7.14375 345) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -223,7 +229,7 @@
   )
 
   (module Keebio-Parts:Kailh-PG1350-1u-reversible-NoLED (layer F.Cu) (tedit 6112C87C) (tstamp 6112E100)
-    (at 102.528383 70.204802 345)
+    (at 122.528383 130.207514 345)
     (path /61134870)
     (fp_text reference SW16 (at 0 -7.14375 345) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -265,7 +271,7 @@
   )
 
   (module Keebio-Parts:Kailh-PG1350-1u-reversible-NoLED (layer F.Cu) (tedit 6112C87C) (tstamp 6112E090)
-    (at 85.659356 63.614209 345)
+    (at 105.659356 123.616921 345)
     (path /61133F34)
     (fp_text reference SW12 (at 0 -7.14375 345) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -307,7 +313,7 @@
   )
 
   (module Keebio-Parts:Kailh-PG1350-1u-reversible-NoLED (layer F.Cu) (tedit 6112C87C) (tstamp 6112E11C)
-    (at 98.128459 86.625541 345)
+    (at 118.128459 146.628253 345)
     (path /61134B0D)
     (fp_text reference SW17 (at 0 -7.14375 345) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -349,7 +355,7 @@
   )
 
   (module Keebio-Parts:Kailh-PG1350-1u-reversible-NoLED (layer F.Cu) (tedit 6112C87C) (tstamp 6112E0AC)
-    (at 81.259432 80.034948 345)
+    (at 101.259432 140.03766 345)
     (path /6113418A)
     (fp_text reference SW13 (at 0 -7.14375 345) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -391,7 +397,7 @@
   )
 
   (module Keebio-Parts:Kailh-PG1350-1u-reversible-NoLED (layer F.Cu) (tedit 6112C87C) (tstamp 6112DF5C)
-    (at 34.016998 47.706128 345)
+    (at 54.016998 107.70884 345)
     (path /6112F67E)
     (fp_text reference SW1 (at 0 -7.14375 345) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -433,7 +439,7 @@
   )
 
   (module Keebio-Parts:Kailh-PG1350-1u-reversible-NoLED (layer F.Cu) (tedit 6112C87C) (tstamp 6112DFCC)
-    (at 52.180122 49.467093 345)
+    (at 72.180122 109.469805 345)
     (path /61132327)
     (fp_text reference SW5 (at 0 -7.14375 345) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -475,7 +481,7 @@
   )
 
   (module Keebio-Parts:Kailh-PG1350-1u-reversible-NoLED (layer F.Cu) (tedit 6112C87C) (tstamp 6112DFB0)
-    (at 56.580045 33.046355 345)
+    (at 76.580045 93.049067 345)
     (path /61131F32)
     (fp_text reference SW4 (at 0 -7.14375 345) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -517,7 +523,7 @@
   )
 
   (module Keebio-Parts:Kailh-PG1350-1u-reversible-NoLED (layer F.Cu) (tedit 6112C87C) (tstamp 6112DFE8)
-    (at 47.780198 65.887832 345)
+    (at 67.780198 125.890544 345)
     (path /6113258B)
     (fp_text reference SW6 (at 0 -7.14375 345) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -559,7 +565,7 @@
   )
 
   (module Keebio-Parts:Kailh-PG1350-1u-reversible-NoLED (layer F.Cu) (tedit 6112C87C) (tstamp 6112DF78)
-    (at 29.617075 64.126868 345)
+    (at 49.617075 124.12958 345)
     (path /61131AB6)
     (fp_text reference SW2 (at 0 -7.14375 345) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -601,7 +607,7 @@
   )
 
   (module Keebio-Parts:Kailh-PG1350-1u-reversible-NoLED (layer F.Cu) (tedit 6112C87C) (tstamp 6112DF94)
-    (at 25.217152 80.547607 345)
+    (at 45.217152 140.550319 345)
     (path /61131CBA)
     (fp_text reference SW3 (at 0 -7.14375 345) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -643,7 +649,7 @@
   )
 
   (module Keebio-Parts:Kailh-PG1350-1u-reversible-NoLED (layer F.Cu) (tedit 6112C87C) (tstamp 6112E004)
-    (at 75.519623 31.909542 345)
+    (at 95.519623 91.912254 345)
     (path /61132C11)
     (fp_text reference SW7 (at 0 -7.14375 345) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -685,7 +691,7 @@
   )
 
   (module Keebio-Parts:Kailh-PG1350-1u-reversible-NoLED (layer F.Cu) (tedit 6112C87C) (tstamp 6112E020)
-    (at 71.119701 48.330281 345)
+    (at 91.119701 108.332993 345)
     (path /6113324B)
     (fp_text reference SW8 (at 0 -7.14375 345) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -727,7 +733,7 @@
   )
 
   (module Keebio-Parts:Kailh-PG1350-1u-reversible-NoLED (layer F.Cu) (tedit 6112C87C) (tstamp 6112E03C)
-    (at 66.719777 64.751021 345)
+    (at 86.719777 124.753733 345)
     (path /611335C1)
     (fp_text reference SW9 (at 0 -7.14375 345) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -769,7 +775,7 @@
   )
 
   (module Keebio-Parts:Kailh-PG1350-1u-reversible-NoLED (layer F.Cu) (tedit 6112C87C) (tstamp 6112E074)
-    (at 90.05928 47.19347 345)
+    (at 110.05928 107.196182 345)
     (path /61133B1E)
     (fp_text reference SW11 (at 0 -7.14375 345) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -811,7 +817,7 @@
   )
 
   (module Keebio-Parts:Kailh-PG1350-1u-reversible-NoLED (layer F.Cu) (tedit 6112C87C) (tstamp 6112E0C8)
-    (at 84.707032 105.805357 330)
+    (at 104.707032 165.808069 330)
     (path /611356F0)
     (fp_text reference SW14 (at 0 -7.14375 330) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -853,7 +859,7 @@
   )
 
   (module Keebio-Parts:Kailh-PG1350-1u-reversible-NoLED (layer F.Cu) (tedit 6112C87C) (tstamp 6112E0E4)
-    (at 106.928307 53.784063 345)
+    (at 126.928307 113.786775 345)
     (path /61134510)
     (fp_text reference SW15 (at 0 -7.14375 345) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -895,7 +901,7 @@
   )
 
   (module Keebio-Parts:Kailh-PG1350-1u-reversible-NoLED (layer F.Cu) (tedit 6112C87C) (tstamp 6112E138)
-    (at 101.954998 118.709144 315)
+    (at 120.813808 178.15 315)
     (path /6113537F)
     (fp_text reference SW18 (at 0 -7.14375 315) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -937,7 +943,7 @@
   )
 
   (module Connector_PinHeader_2.54mm:PinHeader_1x18_P2.54mm_Vertical (layer F.Cu) (tedit 59FED5CC) (tstamp 6114534E)
-    (at 71.501 138.684)
+    (at 161.984 17.357)
     (descr "Through hole straight pin header, 1x18, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x18 2.54mm single row")
     (path /6117D25B)
@@ -1009,7 +1015,7 @@
   )
 
   (module Connector_PinHeader_2.54mm:PinHeader_1x18_P2.54mm_Vertical (layer F.Cu) (tedit 59FED5CC) (tstamp 61145374)
-    (at 112.522 135.001)
+    (at 235.984 16.357)
     (descr "Through hole straight pin header, 1x18, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x18 2.54mm single row")
     (path /6117F46E)
@@ -1081,7 +1087,7 @@
   )
 
   (module Keebio-Parts:Kailh-PG1350-1u-reversible-NoLED (layer F.Cu) (tedit 6112C87C) (tstamp 6114BAC2)
-    (at 220.846808 47.70884 15)
+    (at 360.846808 107.70884 15)
     (path /6114DB4D)
     (fp_text reference SW19 (at 0 -7.14375 195) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1123,7 +1129,7 @@
   )
 
   (module Keebio-Parts:Kailh-PG1350-1u-reversible-NoLED (layer F.Cu) (tedit 6112C87C) (tstamp 6114BB7F)
-    (at 225.246732 64.129579 15)
+    (at 365.246732 124.129579 15)
     (path /6114DB47)
     (fp_text reference SW20 (at 0 -7.14375 195) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1165,7 +1171,7 @@
   )
 
   (module Keebio-Parts:Kailh-PG1350-1u-reversible-NoLED (layer F.Cu) (tedit 6112C87C) (tstamp 6114B7CE)
-    (at 229.646656 80.550318 15)
+    (at 369.646656 140.550318 15)
     (path /6114DB41)
     (fp_text reference SW21 (at 0 -7.14375 195) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1207,7 +1213,7 @@
   )
 
   (module Keebio-Parts:Kailh-PG1350-1u-reversible-NoLED (layer F.Cu) (tedit 6112C87C) (tstamp 6114B80D)
-    (at 198.283763 33.049067 15)
+    (at 338.283763 93.049067 15)
     (path /6114DAED)
     (fp_text reference SW22 (at 0 -7.14375 195) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1249,7 +1255,7 @@
   )
 
   (module Keebio-Parts:Kailh-PG1350-1u-reversible-NoLED (layer F.Cu) (tedit 6112C87C) (tstamp 6114B987)
-    (at 202.683686 49.469806 15)
+    (at 342.683686 109.469806 15)
     (path /6114DB3B)
     (fp_text reference SW23 (at 0 -7.14375 195) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1291,7 +1297,7 @@
   )
 
   (module Keebio-Parts:Kailh-PG1350-1u-reversible-NoLED (layer F.Cu) (tedit 6112C87C) (tstamp 6114B948)
-    (at 207.08361 65.890545 15)
+    (at 347.08361 125.890545 15)
     (path /6114DB35)
     (fp_text reference SW24 (at 0 -7.14375 195) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1333,7 +1339,7 @@
   )
 
   (module Keebio-Parts:Kailh-PG1350-1u-reversible-NoLED (layer F.Cu) (tedit 6112C87C) (tstamp 6114BBFD)
-    (at 179.344184 31.912254 15)
+    (at 319.344184 91.912254 15)
     (path /6114DB2F)
     (fp_text reference SW25 (at 0 -7.14375 195) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1375,7 +1381,7 @@
   )
 
   (module Keebio-Parts:Kailh-PG1350-1u-reversible-NoLED (layer F.Cu) (tedit 6112C87C) (tstamp 6114B909)
-    (at 183.744107 48.332993 15)
+    (at 323.744107 108.332993 15)
     (path /6114DB6D)
     (fp_text reference SW26 (at 0 -7.14375 195) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1417,7 +1423,7 @@
   )
 
   (module Keebio-Parts:Kailh-PG1350-1u-reversible-NoLED (layer F.Cu) (tedit 6112C87C) (tstamp 6114BB40)
-    (at 188.144031 64.753732 15)
+    (at 328.144031 124.753732 15)
     (path /6114DB29)
     (fp_text reference SW27 (at 0 -7.14375 195) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1458,8 +1464,8 @@
     )
   )
 
-  (module Keebio-Parts:Kailh-PG1350-1u-reversible-NoLED (layer F.Cu) (tedit 6112C87C) (tstamp 6114BBBE)
-    (at 189.66476 97.475092 15)
+  (module Keebio-Parts:Kailh-PG1350-1u-reversible-NoLED (layer F.Cu) (tedit 6112C87C) (tstamp 611632D3)
+    (at 328.9 158.05 15)
     (path /6114DB23)
     (fp_text reference SW28 (at 0 -7.14375 195) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1501,7 +1507,7 @@
   )
 
   (module Keebio-Parts:Kailh-PG1350-1u-reversible-NoLED (layer F.Cu) (tedit 6112C87C) (tstamp 6114B88B)
-    (at 164.804528 47.196181 15)
+    (at 304.804528 107.196181 15)
     (path /6114DB1D)
     (fp_text reference SW29 (at 0 -7.14375 195) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1543,7 +1549,7 @@
   )
 
   (module Keebio-Parts:Kailh-PG1350-1u-reversible-NoLED (layer F.Cu) (tedit 6112C87C) (tstamp 6114BB01)
-    (at 169.204452 63.61692 15)
+    (at 309.204452 123.61692 15)
     (path /6114DAF3)
     (fp_text reference SW30 (at 0 -7.14375 195) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1585,7 +1591,7 @@
   )
 
   (module Keebio-Parts:Kailh-PG1350-1u-reversible-NoLED (layer F.Cu) (tedit 6112C87C) (tstamp 6114BA05)
-    (at 173.604376 80.037659 15)
+    (at 313.604376 140.037659 15)
     (path /6114DB17)
     (fp_text reference SW31 (at 0 -7.14375 195) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1627,7 +1633,7 @@
   )
 
   (module Keebio-Parts:Kailh-PG1350-1u-reversible-NoLED (layer F.Cu) (tedit 6112C87C) (tstamp 6114B8CA)
-    (at 170.156775 105.80807 30)
+    (at 310.156775 165.80807 30)
     (path /6114DB11)
     (fp_text reference SW32 (at 0 -7.14375 210) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1669,7 +1675,7 @@
   )
 
   (module Keebio-Parts:Kailh-PG1350-1u-reversible-NoLED (layer F.Cu) (tedit 6112C87C) (tstamp 6114B9C6)
-    (at 147.935501 53.786776 15)
+    (at 287.935501 113.786776 15)
     (path /6114DB0B)
     (fp_text reference SW33 (at 0 -7.14375 195) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1711,7 +1717,7 @@
   )
 
   (module Keebio-Parts:Kailh-PG1350-1u-reversible-NoLED (layer F.Cu) (tedit 6112C87C) (tstamp 6114B84C)
-    (at 152.335425 70.207515 15)
+    (at 292.335425 130.207515 15)
     (path /6114DB05)
     (fp_text reference SW34 (at 0 -7.14375 195) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1753,7 +1759,7 @@
   )
 
   (module Keebio-Parts:Kailh-PG1350-1u-reversible-NoLED (layer F.Cu) (tedit 6112C87C) (tstamp 6114BA83)
-    (at 156.735349 86.628254 15)
+    (at 296.735349 146.628254 15)
     (path /6114DAFF)
     (fp_text reference SW35 (at 0 -7.14375 195) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1795,7 +1801,7 @@
   )
 
   (module Keebio-Parts:Kailh-PG1350-1u-reversible-NoLED (layer F.Cu) (tedit 6112C87C) (tstamp 6114BA44)
-    (at 152.90881 118.711857 45)
+    (at 294.05 178.15 45)
     (path /6114DAF9)
     (fp_text reference SW36 (at 0 -7.14375 225) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1837,7 +1843,7 @@
   )
 
   (module Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical (layer F.Cu) (tedit 5A19A420) (tstamp 61146556)
-    (at 96.039001 141.884001)
+    (at 141.732 46.99)
     (descr "Through hole straight socket strip, 1x02, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
     (tags "Through hole socket strip THT 1x02 2.54mm single row")
     (path /61180CFF)
@@ -1877,7 +1883,7 @@
   )
 
   (module Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical (layer F.Cu) (tedit 5A19A420) (tstamp 61146F9D)
-    (at 91.389001 141.884001)
+    (at 257.556 51.308)
     (descr "Through hole straight socket strip, 1x02, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
     (tags "Through hole socket strip THT 1x02 2.54mm single row")
     (path /6118151C)
@@ -1915,5 +1921,25 @@
       (rotate (xyz 0 0 0))
     )
   )
+
+  (gr_line (start 307.6575 152.527) (end 294.259 156.1465) (layer Edge.Cuts) (width 0.05) (tstamp 61161165))
+  (gr_line (start 290.195 157.226) (end 294.259 156.1465) (layer Edge.Cuts) (width 0.05) (tstamp 61160E64))
+  (gr_line (start 357.9495 131.826) (end 363.093 151.13) (layer Edge.Cuts) (width 0.05) (tstamp 61160E8A))
+  (gr_line (start 340.5505 136.4615) (end 357.9495 131.826) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 339.0265 130.683) (end 340.5505 136.4615) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 321.691 135.3185) (end 339.0265 130.683) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 325.5645 149.733) (end 321.691 135.3185) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 276.987 107.8865) (end 290.195 157.226) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 294.386 103.1875) (end 276.987 107.8865) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 293.878 101.2825) (end 294.386 103.1875) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 311.2135 96.647) (end 293.878 101.2825) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 308.356 85.979) (end 311.2135 96.647) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 325.882 81.28) (end 308.356 85.979) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 327.406 87.122) (end 325.882 81.28) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 344.805 82.423) (end 327.406 87.122) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 350.012 101.727) (end 344.805 82.423) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 367.411 97.155) (end 350.012 101.727) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 380.619 146.431) (end 367.411 97.155) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 363.093 151.13) (end 380.619 146.431) (layer Edge.Cuts) (width 0.05))
 
 )
