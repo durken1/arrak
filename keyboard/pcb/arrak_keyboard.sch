@@ -293,40 +293,38 @@ Text GLabel 5100 3050 3    50   Input ~ 0
 R4
 Text GLabel 5300 1150 3    50   Input ~ 0
 D1
-Text GLabel 5800 1150 3    50   Input ~ 0
-D2
-Text GLabel 7000 1150 3    50   Input ~ 0
-D3
 Text GLabel 5400 1150 3    50   Input ~ 0
-D4
-Text GLabel 5900 1150 3    50   Input ~ 0
-D5
+D2
 Text GLabel 5500 1150 3    50   Input ~ 0
+D3
+Text GLabel 5600 1150 3    50   Input ~ 0
+D4
+Text GLabel 5700 1150 3    50   Input ~ 0
+D5
+Text GLabel 5900 1150 3    50   Input ~ 0
 D7
 Text GLabel 6000 1150 3    50   Input ~ 0
 D8
-Text GLabel 6700 1150 3    50   Input ~ 0
-D9
-Text GLabel 6400 1150 3    50   Input ~ 0
-D10
-Text GLabel 5600 1150 3    50   Input ~ 0
-D11
 Text GLabel 6100 1150 3    50   Input ~ 0
-D12
+D9
+Text GLabel 6200 1150 3    50   Input ~ 0
+D10
 Text GLabel 6600 1150 3    50   Input ~ 0
+D11
+Text GLabel 6500 1150 3    50   Input ~ 0
+D12
+Text GLabel 6400 1150 3    50   Input ~ 0
 D13
 Text GLabel 6300 1150 3    50   Input ~ 0
 D14
-Text GLabel 5700 1150 3    50   Input ~ 0
+Text GLabel 7000 1150 3    50   Input ~ 0
 D15
 Text GLabel 6900 1150 3    50   Input ~ 0
 D16
-Text GLabel 6500 1150 3    50   Input ~ 0
+Text GLabel 6800 1150 3    50   Input ~ 0
 D17
-Text GLabel 6200 1150 3    50   Input ~ 0
+Text GLabel 6700 1150 3    50   Input ~ 0
 D18
-Entry Wire Line
-	1200 1200 1300 1300
 Text GLabel 800  2900 0    50   Input ~ 0
 R1
 Text GLabel 800  3300 0    50   Input ~ 0
@@ -363,7 +361,7 @@ Text GLabel 1650 4100 0    50   Input ~ 0
 R4
 Text GLabel 2500 4100 0    50   Input ~ 0
 R4
-Text GLabel 6800 1150 3    50   Input ~ 0
+Text GLabel 5800 1150 3    50   Input ~ 0
 D6
 $Comp
 L Connector:Conn_01x20_Male J1
@@ -423,41 +421,41 @@ Text GLabel 4800 3300 3    50   Input ~ 0
 D35
 Text GLabel 4800 3700 3    50   Input ~ 0
 D36
-Text GLabel 5600 3050 3    50   Input ~ 0
+Text GLabel 6900 3050 3    50   Input ~ 0
 D19
-Text GLabel 6500 3050 3    50   Input ~ 0
+Text GLabel 6800 3050 3    50   Input ~ 0
 D20
-Text GLabel 6400 3050 3    50   Input ~ 0
+Text GLabel 6700 3050 3    50   Input ~ 0
 D21
-Text GLabel 6100 3050 3    50   Input ~ 0
-D22
-Text GLabel 5500 3050 3    50   Input ~ 0
-D23
-Text GLabel 6000 3050 3    50   Input ~ 0
-D24
 Text GLabel 6600 3050 3    50   Input ~ 0
+D22
+Text GLabel 6500 3050 3    50   Input ~ 0
+D23
+Text GLabel 6400 3050 3    50   Input ~ 0
+D24
+Text GLabel 6300 3050 3    50   Input ~ 0
 D25
 Text GLabel 6200 3050 3    50   Input ~ 0
 D26
-Text GLabel 5400 3050 3    50   Input ~ 0
+Text GLabel 5800 3050 3    50   Input ~ 0
 D27
 Text GLabel 5900 3050 3    50   Input ~ 0
 D28
-Text GLabel 6700 3050 3    50   Input ~ 0
+Text GLabel 6000 3050 3    50   Input ~ 0
 D29
-Text GLabel 6300 3050 3    50   Input ~ 0
+Text GLabel 6100 3050 3    50   Input ~ 0
 D30
-Text GLabel 5300 3050 3    50   Input ~ 0
+Text GLabel 5500 3050 3    50   Input ~ 0
 D31
-Text GLabel 5800 3050 3    50   Input ~ 0
+Text GLabel 5600 3050 3    50   Input ~ 0
 D32
-Text GLabel 6800 3050 3    50   Input ~ 0
+Text GLabel 5700 3050 3    50   Input ~ 0
 D33
 Text GLabel 5200 3050 3    50   Input ~ 0
 D34
-Text GLabel 5700 3050 3    50   Input ~ 0
+Text GLabel 5300 3050 3    50   Input ~ 0
 D35
-Text GLabel 6900 3050 3    50   Input ~ 0
+Text GLabel 5400 3050 3    50   Input ~ 0
 D36
 $Comp
 L kbd:SW_PUSH SW21
