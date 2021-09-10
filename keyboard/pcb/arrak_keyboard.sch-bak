@@ -283,47 +283,47 @@ Text GLabel 3300 2200 0    50   Input ~ 0
 R4
 Text GLabel 4150 2200 0    50   Input ~ 0
 R4
-Text GLabel 5100 1150 3    50   Input ~ 0
+Text GLabel 5050 1100 3    50   Input ~ 0
 R1
-Text GLabel 5200 1150 3    50   Input ~ 0
+Text GLabel 5150 1100 3    50   Input ~ 0
 R2
 Text GLabel 5000 3050 3    50   Input ~ 0
 R3
 Text GLabel 5100 3050 3    50   Input ~ 0
 R4
-Text GLabel 5300 1150 3    50   Input ~ 0
+Text GLabel 5250 1100 3    50   Input ~ 0
 D1
-Text GLabel 5400 1150 3    50   Input ~ 0
+Text GLabel 5350 1100 3    50   Input ~ 0
 D2
-Text GLabel 5500 1150 3    50   Input ~ 0
+Text GLabel 5450 1100 3    50   Input ~ 0
 D3
-Text GLabel 5600 1150 3    50   Input ~ 0
+Text GLabel 5550 1100 3    50   Input ~ 0
 D4
-Text GLabel 5700 1150 3    50   Input ~ 0
+Text GLabel 5650 1100 3    50   Input ~ 0
 D5
-Text GLabel 5900 1150 3    50   Input ~ 0
+Text GLabel 5850 1100 3    50   Input ~ 0
 D7
-Text GLabel 6000 1150 3    50   Input ~ 0
+Text GLabel 5950 1100 3    50   Input ~ 0
 D8
-Text GLabel 6100 1150 3    50   Input ~ 0
+Text GLabel 6050 1100 3    50   Input ~ 0
 D9
-Text GLabel 6200 1150 3    50   Input ~ 0
+Text GLabel 6150 1100 3    50   Input ~ 0
 D10
-Text GLabel 6600 1150 3    50   Input ~ 0
+Text GLabel 6550 1100 3    50   Input ~ 0
 D11
-Text GLabel 6500 1150 3    50   Input ~ 0
+Text GLabel 6450 1100 3    50   Input ~ 0
 D12
-Text GLabel 6400 1150 3    50   Input ~ 0
+Text GLabel 6350 1100 3    50   Input ~ 0
 D13
-Text GLabel 6300 1150 3    50   Input ~ 0
+Text GLabel 6250 1100 3    50   Input ~ 0
 D14
-Text GLabel 7000 1150 3    50   Input ~ 0
+Text GLabel 6950 1100 3    50   Input ~ 0
 D15
-Text GLabel 6900 1150 3    50   Input ~ 0
+Text GLabel 6850 1100 3    50   Input ~ 0
 D16
-Text GLabel 6800 1150 3    50   Input ~ 0
+Text GLabel 6750 1100 3    50   Input ~ 0
 D17
-Text GLabel 6700 1150 3    50   Input ~ 0
+Text GLabel 6650 1100 3    50   Input ~ 0
 D18
 Text GLabel 800  2900 0    50   Input ~ 0
 R1
@@ -361,17 +361,17 @@ Text GLabel 1650 4100 0    50   Input ~ 0
 R4
 Text GLabel 2500 4100 0    50   Input ~ 0
 R4
-Text GLabel 5800 1150 3    50   Input ~ 0
+Text GLabel 5750 1100 3    50   Input ~ 0
 D6
 $Comp
 L Connector:Conn_01x20_Male J1
 U 1 1 6117D25B
-P 6100 950
-F 0 "J1" V 5935 878 50  0000 C CNN
-F 1 "Conn_01x20_Male" V 6026 878 50  0000 C CNN
-F 2 "" H 6100 950 50  0001 C CNN
-F 3 "~" H 6100 950 50  0001 C CNN
-	1    6100 950 
+P 6050 900
+F 0 "J1" V 5885 828 50  0000 C CNN
+F 1 "Conn_01x20_Male" V 5976 828 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical" H 6050 900 50  0001 C CNN
+F 3 "~" H 6050 900 50  0001 C CNN
+	1    6050 900 
 	0    1    1    0   
 $EndComp
 $Comp
@@ -421,21 +421,21 @@ Text GLabel 4800 3300 3    50   Input ~ 0
 D35
 Text GLabel 4800 3700 3    50   Input ~ 0
 D36
-Text GLabel 6300 3050 3    50   Input ~ 0
+Text GLabel 6900 3050 3    50   Input ~ 0
 D19
 Text GLabel 6800 3050 3    50   Input ~ 0
 D20
 Text GLabel 6700 3050 3    50   Input ~ 0
 D21
-Text GLabel 6500 3050 3    50   Input ~ 0
+Text GLabel 6600 3050 3    50   Input ~ 0
 D22
-Text GLabel 6200 3050 3    50   Input ~ 0
+Text GLabel 6500 3050 3    50   Input ~ 0
 D23
 Text GLabel 6400 3050 3    50   Input ~ 0
 D24
-Text GLabel 6900 3050 3    50   Input ~ 0
+Text GLabel 6300 3050 3    50   Input ~ 0
 D25
-Text GLabel 6600 3050 3    50   Input ~ 0
+Text GLabel 6200 3050 3    50   Input ~ 0
 D26
 Text GLabel 5800 3050 3    50   Input ~ 0
 D27
@@ -655,4 +655,230 @@ F 3 "" H 4500 2900 50  0000 C CNN
 	1    4500 2900
 	1    0    0    -1  
 $EndComp
+Text GLabel 7700 1100 3    50   Input ~ 0
+R1u
+Text GLabel 7800 1100 3    50   Input ~ 0
+R2u
+$Comp
+L Connector:Conn_01x20_Male J4
+U 1 1 613AE168
+P 8700 900
+F 0 "J4" V 8535 828 50  0000 C CNN
+F 1 "Conn_01x20_Male" V 8626 828 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical" H 8700 900 50  0001 C CNN
+F 3 "~" H 8700 900 50  0001 C CNN
+	1    8700 900 
+	0    1    1    0   
+$EndComp
+Text GLabel 7600 3050 3    50   Input ~ 0
+R3u
+Text GLabel 7700 3050 3    50   Input ~ 0
+R4u
+$Comp
+L Connector:Conn_01x20_Male J3
+U 1 1 613C2E0B
+P 8600 2850
+F 0 "J3" V 8435 2778 50  0000 C CNN
+F 1 "Conn_01x20_Male" V 8526 2778 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical" H 8600 2850 50  0001 C CNN
+F 3 "~" H 8600 2850 50  0001 C CNN
+	1    8600 2850
+	0    1    1    0   
+$EndComp
+$Comp
+L redox_rev1-cache:core51822b_Core51822B U1
+U 1 1 613C67B4
+P 8450 4750
+F 0 "U1" H 8450 5637 60  0000 C CNN
+F 1 "core51822b_Core51822B" H 8450 5531 60  0000 C CNN
+F 2 "redox_w_footprints:MY-YJ-14015-Module" H 8450 4850 60  0001 C CNN
+F 3 "" H 8450 4850 60  0001 C CNN
+	1    8450 4750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Battery_Cell BT1
+U 1 1 613C86D4
+P 5900 4800
+F 0 "BT1" H 6018 4896 50  0000 L CNN
+F 1 "Battery_Cell" H 6018 4805 50  0000 L CNN
+F 2 "Battery:BatteryHolder_Keystone_3034_1x20mm" V 5900 4860 50  0001 C CNN
+F 3 "~" V 5900 4860 50  0001 C CNN
+	1    5900 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR01
+U 1 1 613C9721
+P 5900 4600
+F 0 "#PWR01" H 5900 4450 50  0001 C CNN
+F 1 "VCC" H 5915 4773 50  0000 C CNN
+F 2 "" H 5900 4600 50  0001 C CNN
+F 3 "" H 5900 4600 50  0001 C CNN
+	1    5900 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR02
+U 1 1 613CA6D4
+P 5900 4900
+F 0 "#PWR02" H 5900 4650 50  0001 C CNN
+F 1 "GND" H 5905 4727 50  0000 C CNN
+F 2 "" H 5900 4900 50  0001 C CNN
+F 3 "" H 5900 4900 50  0001 C CNN
+	1    5900 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR05
+U 1 1 613CE221
+P 7500 5350
+F 0 "#PWR05" H 7500 5200 50  0001 C CNN
+F 1 "VCC" V 7500 5550 50  0000 C CNN
+F 2 "" H 7500 5350 50  0001 C CNN
+F 3 "" H 7500 5350 50  0001 C CNN
+	1    7500 5350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR04
+U 1 1 613CF088
+P 7500 5250
+F 0 "#PWR04" H 7500 5000 50  0001 C CNN
+F 1 "GND" V 7505 5122 50  0000 R CNN
+F 2 "" H 7500 5250 50  0001 C CNN
+F 3 "" H 7500 5250 50  0001 C CNN
+	1    7500 5250
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR03
+U 1 1 613CF5F0
+P 7500 4250
+F 0 "#PWR03" H 7500 4000 50  0001 C CNN
+F 1 "GND" V 7505 4122 50  0000 R CNN
+F 2 "" H 7500 4250 50  0001 C CNN
+F 3 "" H 7500 4250 50  0001 C CNN
+	1    7500 4250
+	0    1    1    0   
+$EndComp
+Text GLabel 7900 1100 3    50   Input ~ 0
+C1
+Text GLabel 8000 1100 3    50   Input ~ 0
+C1
+Text GLabel 8100 1100 3    50   Input ~ 0
+C1
+Text GLabel 8200 1100 3    50   Input ~ 0
+C2
+Text GLabel 8300 1100 3    50   Input ~ 0
+C2
+Text GLabel 8500 1100 3    50   Input ~ 0
+C3
+Text GLabel 8600 1100 3    50   Input ~ 0
+C3
+Text GLabel 8700 1100 3    50   Input ~ 0
+C3
+Text GLabel 8800 1100 3    50   Input ~ 0
+C3
+Text GLabel 9200 1100 3    50   Input ~ 0
+C4
+Text GLabel 9100 1100 3    50   Input ~ 0
+C4
+Text GLabel 9000 1100 3    50   Input ~ 0
+C4
+Text GLabel 8900 1100 3    50   Input ~ 0
+C4
+Text GLabel 8400 1100 3    50   Input ~ 0
+C2
+Text GLabel 9600 1100 3    50   Input ~ 0
+C5
+Text GLabel 9500 1100 3    50   Input ~ 0
+C5
+Text GLabel 9400 1100 3    50   Input ~ 0
+C5
+Text GLabel 9300 1100 3    50   Input ~ 0
+C5
+Text GLabel 7800 3050 3    50   Input ~ 0
+C10
+Text GLabel 7900 3050 3    50   Input ~ 0
+C10
+Text GLabel 8000 3050 3    50   Input ~ 0
+C10
+Text GLabel 8100 3050 3    50   Input ~ 0
+C9
+Text GLabel 8200 3050 3    50   Input ~ 0
+C9
+Text GLabel 8400 3050 3    50   Input ~ 0
+C8
+Text GLabel 8500 3050 3    50   Input ~ 0
+C8
+Text GLabel 8600 3050 3    50   Input ~ 0
+C8
+Text GLabel 8700 3050 3    50   Input ~ 0
+C8
+Text GLabel 9100 3050 3    50   Input ~ 0
+C7
+Text GLabel 9000 3050 3    50   Input ~ 0
+C7
+Text GLabel 8900 3050 3    50   Input ~ 0
+C7
+Text GLabel 8800 3050 3    50   Input ~ 0
+C7
+Text GLabel 8300 3050 3    50   Input ~ 0
+C9
+Text GLabel 9500 3050 3    50   Input ~ 0
+C6
+Text GLabel 9400 3050 3    50   Input ~ 0
+C6
+Text GLabel 9300 3050 3    50   Input ~ 0
+C6
+Text GLabel 9200 3050 3    50   Input ~ 0
+C6
+Text GLabel 8000 5800 3    50   Input ~ 0
+C5
+Text GLabel 8100 5800 3    50   Input ~ 0
+C4
+Text GLabel 8200 5800 3    50   Input ~ 0
+C3
+Text GLabel 8300 5800 3    50   Input ~ 0
+C2
+Text GLabel 8400 5800 3    50   Input ~ 0
+C1
+Text GLabel 7900 5800 3    50   Input ~ 0
+R2u
+Text GLabel 8900 5800 3    50   Input ~ 0
+C6
+Text GLabel 8800 5800 3    50   Input ~ 0
+C7
+Text GLabel 8700 5800 3    50   Input ~ 0
+C8
+Text GLabel 8600 5800 3    50   Input ~ 0
+C9
+Text GLabel 8500 5800 3    50   Input ~ 0
+C10
+Text GLabel 9000 5800 3    50   Input ~ 0
+R4u
+Text GLabel 9400 5350 2    50   Input ~ 0
+R3u
+Text GLabel 7500 5050 0    50   Input ~ 0
+R1u
+NoConn ~ 7500 4350
+NoConn ~ 7500 4450
+NoConn ~ 7500 4550
+NoConn ~ 7500 4650
+NoConn ~ 7500 4750
+NoConn ~ 7500 4850
+NoConn ~ 7500 4950
+NoConn ~ 7500 5050
+NoConn ~ 7500 5150
+NoConn ~ 9400 4250
+NoConn ~ 9400 4350
+NoConn ~ 9400 4450
+NoConn ~ 9400 4550
+NoConn ~ 9400 4650
+NoConn ~ 9400 4750
+NoConn ~ 9400 4850
+NoConn ~ 9400 4950
+NoConn ~ 9400 5050
+NoConn ~ 9400 5150
 $EndSCHEMATC
